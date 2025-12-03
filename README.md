@@ -68,7 +68,7 @@ To run the game on your local machine, follow these steps:
 * **Course:** Designing and Creating High-Level Object-Oriented Applications
 
 ## License
-This software is distributed under the MIT License. Refer to the LICENSE file for the full text.
+This software is distributed under the MIT License. Refer to the [LICENSE](LICENSE) file for the full text.
 
 ---
 AGH University of Krakow - Designing and Creating High-Level Object-Oriented Applications Project 2025

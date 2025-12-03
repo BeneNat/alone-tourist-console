@@ -1,30 +1,30 @@
 ## --- Visual Studio & .NET Core --- ##
 
-# Ignoruj foldery budowania (pliki binarne i tymczasowe)
+# Build results (binaries and intermediate files)
 [Bb]in/
 [Oo]bj/
 
-# Ignoruj ustawienia użytkownika (specyficzne dla Twojego komputera)
+# User-specific files (preferences, open files)
 *.user
 *.userosscache
 *.sln.docstates
 
-# Ignoruj folder konfiguracyjny Visual Studio (ukryty folder)
+# Visual Studio cache/options directory (hidden)
 .vs/
 
-# Ignoruj pliki tymczasowe generowane podczas pracy
+# Temporary files generated during work
 *.suo
 *.cache
 *.log
 
-## --- VS Code (jeśli używasz) --- ##
+## --- VS Code --- ##
 .vscode/
 
-## --- Systemowe (Windows/Mac) --- ##
+## --- System Files (Windows/Mac) --- ##
 Thumbs.db
 Desktop.ini
 .DS_Store
 
-## --- Inne --- ##
-# Jeśli masz jakieś pliki z hasłami lub kluczami API, dopisz je tutaj:
+## --- Other --- ##
+# Secrets or local configs (if added later)
 # secrets.json
